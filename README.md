@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding for domesticwarlord86
 - 🌱 I’m currently learning xml/rebornbuddy
 - 💞️ I’m looking to collaborate on orderbot profiles
-- 📫 How to reach me https://github.com/ripsnortntear
+- 📫 How to reach me https://github.com/ripsnortntear & mailto:ripsnotntear@gmail.com
 
 <!---
 ripsnortntear/ripsnortntear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
